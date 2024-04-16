@@ -58,9 +58,9 @@
     }
 
     h4 {
-      color: #193B55;
+      color: #333;
       font-size: 15px;
-      margin-top: 26px;
+      margin-top: 16px;
     }
 
     input[type="text"]:focus {
