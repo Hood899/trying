@@ -67,3 +67,16 @@ input[type="text"]:focus {
   box-shadow: 0 0 5px #193b55; 
   outline: none; 
 }
+
+@media screen and (max-width: 600px) {
+      #formP {
+        width: 90%;
+      }
+    }
+    
+    /* Styles for larger screens */
+    @media screen and (min-width: 1200px) {
+      #formP {
+        width: 50%;
+      }
+    }
